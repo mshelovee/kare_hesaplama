@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ders0926\ders0926\bin\Debug\ders0926.exe.config
+C:\Users\User\source\repos\ders0926\ders0926\bin\Debug\ders0926.exe
+C:\Users\User\source\repos\ders0926\ders0926\bin\Debug\ders0926.pdb
+C:\Users\User\source\repos\ders0926\ders0926\obj\Debug\ders0926.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ders0926\ders0926\obj\Debug\ders0926.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ders0926\ders0926\obj\Debug\ders0926.Form1.resources
+C:\Users\User\source\repos\ders0926\ders0926\obj\Debug\ders0926.Properties.Resources.resources
+C:\Users\User\source\repos\ders0926\ders0926\obj\Debug\ders0926.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ders0926\ders0926\obj\Debug\ders0926.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ders0926\ders0926\obj\Debug\ders0926.exe
+C:\Users\User\source\repos\ders0926\ders0926\obj\Debug\ders0926.pdb
